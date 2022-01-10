@@ -22,4 +22,6 @@ at the end your nvim will look somthing like this!! and you can add as many cust
 
 ![result](https://user-images.githubusercontent.com/72669865/148784035-c1e2d53b-db6b-4603-aaab-0e4b341997f6.png)
 
+It will require to install some packages!!!
+
 ENJOY!!!
